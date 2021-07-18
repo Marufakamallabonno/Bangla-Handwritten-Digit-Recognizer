@@ -1,4 +1,4 @@
-# Bangla-Handwritten-Digit-Recognizerzerer
+# Bangla-Handwritten-Digit-Recognizer
 
 
 *   Applying  **logistic regression** and deep neural for the **NumtaDB** dataset a multiclass classification model is built that can recognize `[0-9]` Bengali handwritten digits with different hyperparameter settings.  
